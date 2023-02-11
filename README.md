@@ -2,7 +2,7 @@
 
 
 
-- 💞️ I’m looking any job like programmer (even for minimal salary)
+- 💞️ I’m looking for any job like programmer (even for minimal salary)
 
 
 <!---
