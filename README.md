@@ -1,8 +1,15 @@
 ### Hello, my name is Rozanov Andrei 👋
 
+Linux and Vim user
 
+- 💞️ I’m looking for any job like programmer
 
-- 💞️ I’m looking for any job like programmer (even for minimal salary)
+I have experience with:
+ - JavaScript, HTML, CSS
+ - GoLang
+ - Python
+ - Lua
+
 
 
 <!---
