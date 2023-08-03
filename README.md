@@ -10,6 +10,7 @@ I have experience with:
  - Python
  - Lua
 
+[AndreiRozanov.pdf](https://github.com/RAprogramm/RAprogramm/files/12246611/AndreiRozanov.pdf)
 
 
 <!---
