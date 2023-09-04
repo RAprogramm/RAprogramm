@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hello, I'm RA</h1>
 <p align="center">
-  Passionate developer | Based in South Korea | Neovim enthusiast | <a href="">Resume</a>
+  Passionate developer | Based in South Korea | Neovim enthusiast
 </p>
 
 <p align="center">🚀 Passionate Developer | Neovim Enthusiast</p>
@@ -28,7 +28,7 @@ I'm familiar with a variety of technologies, including:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrei-rozanov-4271a425b/">LinkedIn</a> |
-  <a href="https://github.com/RAprogramm/RAprogramm/files/12246611/AndreiRozanov.pdf">Resume</a> |
+  <!-- <a href="https://github.com/RAprogramm/RAprogramm/files/12246611/AndreiRozanov.pdf">Resume</a> | -->
   <a href="mailto:andrey.rozanov.vl@gmail.com">Email</a>
 </p>
 
