@@ -1,10 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hello, I'm RA</h1>
 <p align="center">
-  Passionate developer | Based in South Korea | Neovim enthusiast | [Bussiness card](https://digital-bussines-card.web.app/)
-</p>
-
-<p align="center">🚀 Passionate Developer | Neovim Enthusiast</p>
+  Passionate developer | Based in South Korea | Neovim enthusiast | <a href="https://digital-bussines-card.web.app/">Bussiness card</a>
 
 <p align="center">I'm a tech enthusiast who loves coding in Neovim using a variety of languages, from Golang to Lua, JavaScript, HTML, CSS, Python, and more. Linux and Arch Linux are my OS of choice!</p>
 
