@@ -7,6 +7,8 @@
 
 <h2 align="center">📖 About Me</h2>
 
+[![wakatime](https://wakatime.com/badge/user/8c063d69-8cd5-4aa4-b336-6dc47bfb1062.svg)](https://wakatime.com/@8c063d69-8cd5-4aa4-b336-6dc47bfb1062)
+
 - 🎓 Self-taught Developer
 - 💼 Open Source Contributor
 - 🌱 Learning something new every day
