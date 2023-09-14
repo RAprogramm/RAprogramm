@@ -205,7 +205,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raprogramm&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=raprogramm&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raprogramm&show_icons=true&langs_count=10&theme=tokyonight" alt="GitHub Stats Langs">
 </p>
 
 <!-- Footer -->
