@@ -5,6 +5,10 @@
 
 <p align="center">I'm a tech enthusiast who loves coding in Neovim using a variety of languages, from Golang to Lua, JavaScript, HTML, CSS, Python, and more. Linux and Arch Linux are my OS of choice!</p>
 
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=raprogramm&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
+
 <hr>
 
 <h2 align="center">📖 About Me</h2>
@@ -13,6 +17,15 @@
 - 💼 Open Source Contributor
 - 🌱 Learning something new every day
 - ⚡ Fun fact: studied matrial arts almost 20 years
+
+<hr>
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/andrei-rozanov-4271a425b/">LinkedIn</a> |
+  <a href="https://digital-bussines-card.web.app/">Bussiness card</a> | 
+  <a href="mailto:andrey.rozanov.vl@gmail.com">Email</a>
+</p>
 
 <hr>
 
@@ -119,20 +132,11 @@ Other
 
 </div>
 <hr>
-<h2 align="center">🌐 Connect with Me</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/andrei-rozanov-4271a425b/">LinkedIn</a> |
-  <a href="https://digital-bussines-card.web.app/">Bussiness card</a> | 
-  <a href="mailto:andrey.rozanov.vl@gmail.com">Email</a>
-</p>
-
-<hr>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raprogramm&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raprogramm&show_icons=true&langs_count=10&theme=tokyonight" alt="GitHub Stats Langs">
 </p>
 
