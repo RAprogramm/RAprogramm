@@ -1,4 +1,5 @@
-<!-- Header -->
+![with_statue](https://github.com/RAprogramm/RAprogramm/assets/70325462/a9a6d56f-983e-48e5-8440-052cc75f6ca4)
+
 <h1 align="center">Hello, I'm RA</h1>
 <p align="center">
   Passionate developer | Based in South Korea | Neovim enthusiast
