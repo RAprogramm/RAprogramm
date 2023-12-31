@@ -1,6 +1,7 @@
 ![with_statue](https://github.com/RAprogramm/RAprogramm/assets/70325462/a9a6d56f-983e-48e5-8440-052cc75f6ca4)
 
-<h1 align="center">Hello, I'm RA</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+everyone,+i'm+RA.;+Nice+to+see+you+at+my+GitHub+page.)
+
 <p align="center">
   Passionate developer | Based in South Korea | Neovim enthusiast
 
