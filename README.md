@@ -1,6 +1,7 @@
 ![with_statue](https://github.com/RAprogramm/RAprogramm/assets/70325462/a9a6d56f-983e-48e5-8440-052cc75f6ca4)
 
-<h1 align="center">Hello, I'm RA</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+everyone,+i'm+RA.;+Nice+to+see+you+at+my+GitHub+page.)
+
 <p align="center">
   Passionate developer | Based in South Korea | Neovim enthusiast
 
@@ -68,9 +69,23 @@
 <tr>
 <td>Languages</td>
 <td>
+<<<<<<< HEAD
 
 <img src="https://skills.thijs.gg/icons?i=rust,lua,python,bash,go,js,ts,md,&perline=10"/>
 
+||||||| def4958
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</td>
+=======
+  
+![My Skills](https://skillicons.dev/icons?i=rust,lua,md,go,js,ts,bash,py)
+>>>>>>> 67596d959e0005d323d7008ae1f583eb33fd6bf3
 
 </tr>
 
