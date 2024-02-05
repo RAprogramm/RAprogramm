@@ -6,8 +6,20 @@
 
 <p align="center">I'm a tech enthusiast who loves coding in Neovim using a variety of languages, from Golang to Lua, JavaScript, HTML, CSS, Python, and more. Linux and Arch Linux are my OS of choice!</p>
 
+
+
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=raprogramm&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <a href="https://github.com/RAprogramm">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAprogramm&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+  </a>
+  <a href="https://github.com/RAprogramm">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RAprogramm&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/RAprogramm">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAprogramm&theme=dracula&hide_border=true&theme=dark" />
+  </a>
 </p>
 
 <hr>
@@ -37,11 +49,15 @@
 [![wakatime](https://wakatime.com/badge/user/8c063d69-8cd5-4aa4-b336-6dc47bfb1062.svg)](https://wakatime.com/@8c063d69-8cd5-4aa4-b336-6dc47bfb1062)
 
 </div>
+
+<details>
+<summary>Technologies table</summary>
 <table>
 
 <tr>
 <td>Browser</td>
 <td>
+
 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
@@ -53,13 +69,8 @@
 <td>Languages</td>
 <td>
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</td>
+<img src="https://skills.thijs.gg/icons?i=rust,lua,python,bash,go,js,ts,md,&perline=10"/>
+
 
 </tr>
 
@@ -67,7 +78,7 @@
 <td>Hosting</td>
 <td>
 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+<img src="https://skills.thijs.gg/icons?i=firebase&perline=10"/>
 
 </td>
 </tr>
@@ -149,14 +160,14 @@
 </tr>
 
 <tr>
-<td>Frameworks, Platforms, Libraries</td>
+<td>Platforms, Libraries</td>
 <td>
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://skills.thijs.gg/icons?i=vite&perline=10"/>
+
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 </td>
@@ -167,9 +178,7 @@
 <td>WebTechnologies</td>
 <td>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+<img src="https://skills.thijs.gg/icons?i=html,css,wasm,vue,react,bootstrap&perline=10"/>
 
 </td>
 </tr>
@@ -244,17 +253,10 @@
 </tr>
 
 </table>
+</details>
 
 </div>
-<hr>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raprogramm&show_icons=true&langs_count=10&theme=tokyonight" alt="GitHub Stats Langs">
-</p>
-
 <!-- Footer -->
 <p align="center">
-  Made with ❤️ by RAprogramm
+  Made by RAprogramm
 </p>
