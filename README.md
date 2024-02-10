@@ -1,6 +1,9 @@
 ![with_statue](https://github.com/RAprogramm/RAprogramm/assets/70325462/a9a6d56f-983e-48e5-8440-052cc75f6ca4)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+everyone,+i'm+RA.;+Nice+to+see+you+at+my+GitHub+page.)
+
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+everyone,+i'm+RA.;+Nice+to+see+you+at+my+page.;Subscribe and give stars!"/>
+</p>
 
 <p align="center">
   Passionate developer | Based in South Korea | Neovim enthusiast
@@ -36,9 +39,9 @@
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andrei-rozanov-4271a425b/">LinkedIn</a> |
-  <a href="https://digital-bussines-card.web.app/">Bussiness card</a> | 
-  <a href="mailto:andrey.rozanov.vl@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/raprogramm/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://digital-bussines-card.web.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>  
+  <a href="mailto:andrey.rozanov.vl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <hr>
