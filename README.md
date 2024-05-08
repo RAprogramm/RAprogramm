@@ -44,13 +44,10 @@
   <a href="mailto:andrey.rozanov.vl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<div align = right>
+> [!NOTE]
+> 
+> *If you are HR, you might want to take a look at my [CV](https://drive.google.com/file/d/1--CHUjt7L6gjNzVYx_3y_IL4iWWUPGum/view?usp=sharing)*
 
-> [!INFO]
-> If you are HR, you might want to take a look at my [CV](https://drive.google.com/file/d/1--CHUjt7L6gjNzVYx_3y_IL4iWWUPGum/view?usp=sharing)
-
-</div>
-  <!-- <a href="mailto:andrey.rozanov.vl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
 
 <hr>
 
