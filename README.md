@@ -1,5 +1,10 @@
 ![with_statue](https://github.com/RAprogramm/RAprogramm/assets/70325462/a9a6d56f-983e-48e5-8440-052cc75f6ca4)
 
+<p align="center">
+
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=RAprogramm.RAprogramm" />
+</p>
+
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+everyone,+i'm+RA.;+Nice+to+see+you+at+my+page.;Subscribe and give stars!"/>
@@ -16,14 +21,13 @@
   <a href="https://github.com/RAprogramm">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAprogramm&theme=dark&show_icons=true&hide_border=true&layout=compact" />
   </a>
-  <a href="https://github.com/RAprogramm">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RAprogramm&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  </a>
+   <a href="http://www.github.com/libraiger"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RAprogramm&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Mr Rust's GitHub stats" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/RAprogramm">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAprogramm&theme=dracula&hide_border=true&theme=dark" />
   </a>
+   
 </p>
 
 <hr>
