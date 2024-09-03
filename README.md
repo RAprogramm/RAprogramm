@@ -38,6 +38,7 @@
 - 💼 Open Source Contributor
 - 🌱 Learning something new every day
 - ⚡ Fun fact: studied matrial arts almost 20 years
+- [NeViRaIDE](https://github.com/NeViRAIDE) founder
 
 <hr>
 <h2 align="center">🌐 Connect with Me</h2>
