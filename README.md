@@ -1,4 +1,4 @@
-![with_statue](https://github.com/RAprogramm/RAprogramm/assets/70325462/a9a6d56f-983e-48e5-8440-052cc75f6ca4)
+![ChatGPT Image Jun 21, 2025, 01_12_35 PM](https://github.com/user-attachments/assets/193ff207-5281-49d6-9cf9-194ca0b10207)
 
 <p align="center">
 
