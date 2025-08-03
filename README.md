@@ -13,7 +13,7 @@
 <p align="center">
   Passionate developer | Based in Nha Trang, Vietnam | Programming enthusiast
 
-<p align="center">I'm a tech enthusiast who loves coding in Neovim using a variety of languages, from Golang to Lua, JavaScript, HTML, CSS, Python, and more. Linux and Arch Linux are my OS of choice!</p>
+<p align="center">I'm a tech enthusiast who loves coding in Neovim using a variety of languages. Linux and Arch Linux are my OS of choice!</p>
 
 
 
