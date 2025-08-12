@@ -39,6 +39,7 @@
 - 🌱 Learning something new every day
 - ⚡ Fun fact: studied matrial arts almost 20 years
 - [NeViRaIDE](https://github.com/NeViRAIDE) founder
+- [Rice Stars](https://github.com/orgs/HyDE-Project/teams/rice-stars) member of [HyDe Project](https://github.com/HyDE-Project) 
 
 <hr>
 <h2 align="center">🌐 Connect with Me</h2>
