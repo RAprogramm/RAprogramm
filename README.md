@@ -10,23 +10,6 @@
 
 <p align="center">I'm a tech enthusiast who loves bring automatization to life. Arch Linux is my OS of choice!</p>
 
-
-
-![Metrics](https://github.com/RAprogramm/infra-metrics-insight-renderer/blob/main/metrics/profile.svg)
-
-<hr>
-
-<h2 align="center">📖 About Me</h2>
-
-- 🎓 Self-taught Developer
-- 💼 Open Source Contributor
-- 🌱 Learning something new every day
-- ⚡ Fun fact: studied matrial arts almost 20 years
-- "TOXIC"
-- JS hater
-- [Rice Stars](https://github.com/orgs/HyDE-Project/teams/rice-stars) member of [HyDe Project](https://github.com/HyDE-Project) 
-
-<hr>
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
@@ -50,8 +33,16 @@
 </div>
 
 
+
+![Metrics](https://github.com/RAprogramm/infra-metrics-insight-renderer/blob/main/metrics/profile.svg)
+
+<hr>
+
+
 </div>
 <!-- Footer -->
-<p align="center">
-  Made by RAprogramm
+<p align="center" italic>
+    
+>  _Code without tests is like life without memory — it keeps going, but the mistakes repeat forever._
+  
 </p>
