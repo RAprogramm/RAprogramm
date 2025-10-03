@@ -22,7 +22,13 @@
   <a href="https://github.com/RAprogramm">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAprogramm&theme=dracula&hide_border=true&theme=dark" />
   </a>
-   
+</p>
+
+### Цифры (автообновление)
+<p align="center">
+  <img src="./metrics.commit.svg" alt="Commit calendar" />
+  <img src="./metrics.languages.svg" alt="Languages" />
+  <img src="./metrics.repos.svg" alt="Featured repos" />
 </p>
 
 <hr>

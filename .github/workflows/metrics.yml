@@ -1,0 +1,66 @@
+name: Generate profile metrics
+
+on:
+  schedule:
+    - cron: "17 */12 * * *"   # раз в 12 часов, смещено чтобы не попадать в общий пик
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # нужно, чтобы коммитить SVG в репозиторий
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      # 1) Календарь коммитов (isocalendar), без лишней мишуры
+      - name: Commit calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: RAprogramm
+          template: classic
+          filename: metrics.commit.svg
+          base: ""                 # без базового блока
+          config_timezone: Asia/Ho_Chi_Minh
+          cache: 6h
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year  # или full-year
+
+      # 2) Языки (без "indepth", чтобы не клонить репозитории и не бить лимит)
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: RAprogramm
+          template: classic
+          filename: metrics.languages.svg
+          base: ""
+          config_timezone: Asia/Ho_Chi_Minh
+          cache: 1d
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_ignored: html, css, scss
+          plugin_languages_colors: github
+
+      # 3) Избранные репозитории (без «звездочек» и прочей болтовни)
+      - name: Featured repositories
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: RAprogramm
+          template: classic
+          filename: metrics.repos.svg
+          base: ""
+          config_timezone: Asia/Ho_Chi_Minh
+          cache: 12h
+          plugin_repositories: yes
+          plugin_repositories_featured: |
+            RAprogramm/masterror,
+            RAprogramm/hydebar,
+            RAprogramm/minty
+          plugin_repositories_order: featured, pinned
+
