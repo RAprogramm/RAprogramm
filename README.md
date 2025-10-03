@@ -12,18 +12,6 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/RAprogramm">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAprogramm&theme=dark&show_icons=true&hide_border=true&layout=compact" />
-  </a>
-   <a href="http://www.github.com/RAprogramm"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RAprogramm&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Mr Rust's GitHub stats" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/RAprogramm">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAprogramm&theme=dracula&hide_border=true&theme=dark" />
-  </a>
-</p>
-
 ![Metrics](https://github.com/RAprogramm/infra-metrics-insight-renderer/blob/main/metrics/profile.svg)
 
 <hr>
