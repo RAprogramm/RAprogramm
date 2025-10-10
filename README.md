@@ -1,3 +1,7 @@
+![Metrics](https://raw.githubusercontent.com/RAprogramm/infra-metrics-insight-renderer/main/metrics/YOUR-REPO-NAME.svg)
+
+---
+
 ![ChatGPT Image Jun 21, 2025, 01_12_35 PM](https://github.com/user-attachments/assets/193ff207-5281-49d6-9cf9-194ca0b10207)
 
 <p align="center">
