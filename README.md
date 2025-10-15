@@ -1,5 +1,4 @@
-![Metrics](https://raw.githubusercontent.com/RAprogramm/infra-metrics-insight-renderer/main/metrics/RAprogramm.svg)
-
+[![IMIR](https://raw.githubusercontent.com/RAprogramm/infra-metrics-insight-renderer/main/assets/badges/imir-badge-simple-profile.svg)](https://github.com/RAprogramm/infra-metrics-insight-renderer)
 ---
 
 ![ChatGPT Image Jun 21, 2025, 01_12_35 PM](https://github.com/user-attachments/assets/193ff207-5281-49d6-9cf9-194ca0b10207)
@@ -37,8 +36,7 @@
 </div>
 
 
-
-![Metrics](https://github.com/RAprogramm/infra-metrics-insight-renderer/blob/main/metrics/profile.svg)
+![Metrics](https://raw.githubusercontent.com/RAprogramm/infra-metrics-insight-renderer/main/metrics/profile.svg)
 
 <hr>
 
